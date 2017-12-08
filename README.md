@@ -12,4 +12,4 @@ To reset the game: type (R)
 
 Demo video: https://www.youtube.com/watch?v=NvO6gLJu1MA&t=13s
 
-![Alt text](./Game_pics.png?raw=true "PIC24 SPI Communication")
+![Alt text](./Game_Pics.png?raw=true "PIC24 SPI Communication")
