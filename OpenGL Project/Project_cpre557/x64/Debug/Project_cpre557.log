@@ -1,0 +1,14 @@
+﻿  main.cpp
+c:\users\murad\desktop\project_0\project_cpre557\project_cpre557\shader.h(63): warning C4101: 'infoLog': unreferenced local variable
+c:\users\murad\desktop\project_0\project_cpre557\project_cpre557\shader.h(62): warning C4101: 'success': unreferenced local variable
+c:\users\murad\desktop\project_0\project_cpre557\configfiles\headers\learnopengl\mesh.h(86): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\murad\desktop\project_0\project_cpre557\project_cpre557\main.cpp(208): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\murad\desktop\project_0\project_cpre557\project_cpre557\main.cpp(581): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\murad\desktop\project_0\project_cpre557\project_cpre557\main.cpp(582): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\murad\desktop\project_0\project_cpre557\project_cpre557\main.cpp(585): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\murad\desktop\project_0\project_cpre557\project_cpre557\main.cpp(586): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\murad\desktop\project_0\project_cpre557\project_cpre557\main.cpp(587): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\murad\desktop\project_0\project_cpre557\project_cpre557\main.cpp(588): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\murad\desktop\project_0\project_cpre557\project_cpre557\main.cpp(594): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Project_cpre557.vcxproj -> C:\Users\Murad\Desktop\Project_0\Project_cpre557\x64\Debug\Project_cpre557.exe
+  Project_cpre557.vcxproj -> C:\Users\Murad\Desktop\Project_0\Project_cpre557\x64\Debug\Project_cpre557.pdb (Full PDB)

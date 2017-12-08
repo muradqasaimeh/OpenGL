@@ -1,0 +1,10 @@
+﻿  main.cpp
+main.obj : error LNK2019: unresolved external symbol __imp__glClear@4 referenced in function "void __cdecl RenderSceneCB(void)" (?RenderSceneCB@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol __imp__glClearColor@16 referenced in function _main
+C:\Users\Murad\Desktop\CPrE557\Libs Configuration\libs\glew32.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'X86'
+C:\Users\Murad\Desktop\CPrE557\Libs Configuration\libs\glfw3.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'X86'
+C:\Users\Murad\Desktop\CPrE557\Libs Configuration\libs\glfw3dll.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'X86'
+C:\Users\Murad\Desktop\CPrE557\Libs Configuration\libs\opengl32.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'X86'
+C:\Users\Murad\Desktop\CPrE557\Libs Configuration\libs\soil.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'X86'
+C:\Users\Murad\Desktop\CPrE557\Libs Configuration\libs\assimp-vc140-mt.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'X86'
+C:\Users\Murad\Desktop\CPrE557\Project\Project_cpre557\Debug\Project_cpre557.exe : fatal error LNK1120: 2 unresolved externals
